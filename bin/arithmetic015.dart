@@ -2,10 +2,9 @@
 // the task condition is in the Readme file
 
 
-int func(int a, int b) {
-  return (a + b) * (a - b);
+num func(a,b){
+    return (a+b)*(a-b);
 }
-
 void main() {
-  print(func(7, 8));void main() {}
-}
+    print(func(2,3));
+} 

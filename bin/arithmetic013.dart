@@ -7,6 +7,6 @@ num func(int a, int b) {
 }
 
 void main() {
-  print(func(6, 6));
+  print(func(8, 6));
 }
 
